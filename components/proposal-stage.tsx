@@ -17,22 +17,22 @@ export default function ProposalStage({ stage, onNext }: ProposalStageProps) {
 
   const stages = {
     passing: {
-      title: "Wait... I just passed by you...",
-      subtitle: "Going about my day like any other day",
-      description: "Just minding my business, thinking about the week that was... 🚶",
+      title: "Yoo... I just passed by you...",
+      subtitle: "Kont 9a3ed fi amenelleh kil aada",
+      description: "Sara7 f malakout essama2 w f s9af nal9ach fih 7aja bizarre... 🚶",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_ruohhoruohhoruoh-TuGqUwOts88l2iyzRVA19QcyYEvwod.png",
       emoji: "🚶"
     },
     realization: {
       title: "OH WAIT... 💡",
-      subtitle: "Something just clicked!",
-      description: "Hold on... this weekend is coming up! And I just remembered... we had a good time last time! And I said that I wanna know the new you more 😄",
+      subtitle: "Ba3ed tfakart haja !",
+      description: "Hold on... Ti maw fama weekend jem3a hedhy! And I just remembered... we had a good time last time! And I said that I wanna know the new you more 😄",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_h26h24h26h24h26h-EYzTxTzlyi3Q7PlZ0D0jwpMDABisQX.png",
       emoji: "💡"
     },
     proposal: {
-      title: "So here's my idea... 😊",
-      subtitle: "No pressure, just thinking out loud!",
+      title: "Donc choufi l fekra... 😊",
+      subtitle: "No pressure,",
       description: "What if we went out this weekend? If you want to, of course! No big deal if you don't! 😄✨",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_t47yvht47yvht47y-48RbkAE1UPK53i50naTEhVMfmv6Pyk.png",
       emoji: "🎉"
